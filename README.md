@@ -7,4 +7,5 @@ Super basic project. Would be good to know integers, variables, strings, concate
 
 This is what the code and live run looks like when everything is set up right in an IDE: https://cloud-oj1hq7emo.vercel.app/0screen_shot_2020-10-17_at_1.36.35_am.png
 
+If you'd like to test out the project, try it here! https://guessinggame.snigdharoy.repl.run/
 
