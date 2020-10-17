@@ -3,7 +3,7 @@ number = random.randint(1, 10)
 
 player_name = input("Hello, what's your name?")
 number_of_guesses = 0
-print('Okay, '+ player_name+ ' I am guessing a number between 1 and 10:')
+print('Okay, '+ player_name+ ' I am guessing a number between 1 and 10. Can you guess what it is? (btw, I only accept numbers!)')
 
 while number_of_guesses < 5:
     guess = int(input())
